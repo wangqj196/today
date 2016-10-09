@@ -12,5 +12,7 @@ package com.to.today;
 public class AA {
 	public void ff() {
 		System.out.println("asdasd");
+		System.out.println("asdasd");
+		System.out.println("asdasd");
 	}
 }
