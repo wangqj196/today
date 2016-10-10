@@ -12,7 +12,7 @@ package com.to.today;
 public class AA {
 
 	public void aa() {
-		System.out.println("6666666666刚刚灌灌灌灌灌灌灌灌灌灌4");
+		System.out.println("6666666666刚刚灌灌灌灌灌灌灌灌灌灌阿萨德阿萨德4");
 		System.out.println("4444刚刚灌灌灌灌灌灌灌灌灌灌4");
 		System.out.println("弟弟顶顶顶顶顶顶顶顶顶顶");
 		System.out.println("啊啊啊");
