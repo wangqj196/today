@@ -15,4 +15,10 @@ public class AA {
 		System.out.println("asdasd");
 		System.out.println("asdasd");
 	}
+
+	public void mm() {
+		System.out.println("asdasd");
+		System.out.println("asdasd");
+		System.out.println("asdasd");
+	}
 }
