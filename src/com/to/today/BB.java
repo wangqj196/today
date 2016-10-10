@@ -2,7 +2,7 @@ package com.to.today;
 
 public class BB {
 	public void testb() {
-
+		System.out.println("000");
 		System.out.println("111");
 		System.out.println("222");
 		System.out.println("啊啊啊");
