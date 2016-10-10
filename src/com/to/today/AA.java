@@ -21,4 +21,10 @@ public class AA {
 		System.out.println("asdasd");
 		System.out.println("asdasd");
 	}
+
+	public static void main(String[] args) {
+
+		AA a = new AA();
+		a.mm();
+	}
 }
