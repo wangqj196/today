@@ -12,6 +12,10 @@ package com.to.today;
 public class AA {
 
 	public void aa() {
+
+		System.out.println("44444");
+		System.out.println("44444");
+		System.out.println("啊啊啊");
 		System.out.println("啊啊啊");
 		System.out.println("啊啊啊");
 		System.out.println("啊啊啊");
