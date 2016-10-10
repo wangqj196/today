@@ -10,6 +10,13 @@ package com.to.today;
  * @author wangqj
  */
 public class AA {
+
+	public void aa() {
+		System.out.println("啊啊啊");
+		System.out.println("aaa");
+		System.out.println("asdasd");
+	}
+
 	public void ff() {
 		System.out.println("asdasd");
 		System.out.println("asdasd");
