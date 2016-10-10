@@ -18,6 +18,13 @@ public class AA {
 		System.out.println("asdasd");
 	}
 
+	public void aab() {
+		System.out.println("啊啊啊");
+		System.out.println("aaa发反反复复");
+		System.out.println("aaahhhhhh");
+		System.out.println("asdasd");
+	}
+
 	public void ff() {
 		System.out.println("asdasd");
 		System.out.println("asdasd");
