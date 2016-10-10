@@ -28,4 +28,10 @@ public class AA {
 		System.out.println("asdasd");
 	}
 
+	public void num() {
+		System.out.println("asdasd");
+		System.out.println("asdasd");
+		System.out.println("asdasd");
+	}
+
 }
