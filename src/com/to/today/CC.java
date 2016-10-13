@@ -13,6 +13,8 @@ public class CC {
 	public void testcc() {
 		System.out.println("000");
 		System.out.println("111");
+		System.out.println("000");
+		System.out.println("111");
 		System.out.println("222");
 		System.out.println("啊啊啊");
 		System.out.println("啊啊啊");
